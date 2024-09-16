@@ -1,3 +1,3 @@
 appbar ui added
-first page ui
+first page ui updated on master.
 footer ui added.
